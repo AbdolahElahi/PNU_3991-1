@@ -9,7 +9,7 @@
 - [دورکاری](#ّFreelancers)
 - [کار دانشجویی](#Student-Work)
 - [گیت هاب](#Github)
-- [رزومه - انگیزه نامه](#CV_SOP)
+- [رزومه - انگیزه نامه](#https://github.com/AbdolahElahi/PNU_3991-AR/blob/master/_SOP%20%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D9%87%20%D9%86%D8%A7%D9%85%D9%87/%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D9%87%20%D9%86%D8%A7%D9%85%D9%87%20SOP.pdf)
 - [جاوا اسکریپت](#JS)
 - [لاتک](#Latex)
 - [مارک داون](#MD)
