@@ -12,6 +12,7 @@
 - #[رزومه - انگیزه نامه](https://github.com/AbdolahElahi/PNU_3991-AR/blob/master/_SOP%20%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D9%87%20%D9%86%D8%A7%D9%85%D9%87/%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D9%87%20%D9%86%D8%A7%D9%85%D9%87%20SOP.pdf)
 - [چک لیست](https://github.com/AbdolahElahi/PNU_3991-AR/blob/master/AE_CV_CheckList_AR_3991.pdf)
 - [جاوا اسکریپت](https://github.com/AbdolahElahi/PNU_3991-AR/blob/master/cert-1024-20704112.jpg)
+- [C++](https://github.com/AbdolahElahi/PNU_3991-AR/blob/master/cert-1051-20704112.jpg)
 - [لاتک](#Latex)
 - [مارک داون](#MD)
 - [اچ تی ام ال - سی اس اس](https://github.com/AbdolahElahi/PNU_3991-AR/blob/master/cert-1014-20704112.jpg)
